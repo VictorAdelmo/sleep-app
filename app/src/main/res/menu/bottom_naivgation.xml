@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Mixer"
+        android:title="Mixagens"
+        android:icon="@drawable/click_button_mixer"
+        />
+    <item
+        android:id="@+id/Ajustes"
+        android:title="Asmr"
+        android:icon="@drawable/click_button_asmr"
+        />
+
+    <item
+        android:id="@+id/Satisfatorios"
+        android:title="Satisfatórios"
+        android:icon="@drawable/click_button_satisfatorio"
+        />
+
+
+</menu>
